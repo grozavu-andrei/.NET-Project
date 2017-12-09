@@ -1,0 +1,11 @@
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Core.dll
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.csproj.CoreCompileInputs.cache
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfoInputs.cache
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfo.cs
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.deps.json
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Core.pdb
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.csprojResolveAssemblyReference.cache
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.dll
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.pdb

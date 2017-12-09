@@ -1,0 +1,9 @@
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Core\bin\Debug\netcoreapp2.0\Data.Core.deps.json
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Core\bin\Debug\netcoreapp2.0\Data.Core.dll
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Core\bin\Debug\netcoreapp2.0\Data.Core.pdb
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.csproj.CoreCompileInputs.cache
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.AssemblyInfoInputs.cache
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.AssemblyInfo.cs
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.dll
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.pdb
+D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.csprojResolveAssemblyReference.cache
