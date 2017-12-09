@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Data.Persistence;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -21,6 +19,10 @@ namespace VirtualSecretary
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var connectionCereri = @"Server = .\SQLEXPRESS; Database = Cereri; Trusted_Connection = true;";
+            //var connectionUtilizatori = @"Server = .\SQLEXPRESS; Database = Utilizatori; Trusted_Connection = true;";
+            services.AddDbContext<CereriDatabaseService>(options => options.UseSqlServer(connectionCereri));
+            //services.AddDbContext<UtilizatoriDatabaseService>(options => options.UseSqlServer(connectionUtilizatori));
             services.AddMvc();
         }
 

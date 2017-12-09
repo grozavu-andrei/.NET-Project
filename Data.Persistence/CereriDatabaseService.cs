@@ -1,5 +1,4 @@
-﻿using Data.Core.Domain;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace Data.Persistence
 {
@@ -9,6 +8,6 @@ namespace Data.Persistence
         {
             Database.EnsureCreated();
         }
-        public DbSet<Cerere> Cereri { get; set; }
+        public DbSet<Data.Core.Domain.Cerere> Cereri { get; set; }
     }
 }

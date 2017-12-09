@@ -8,5 +8,10 @@ namespace Data.Core.Domain
         public string Email { get; set; }
         public string Parola { get; set; }
         public string Tip { get; set; }
+
+        public Utilizator()
+        {
+            Id = new Guid();
+        }
     }
 }

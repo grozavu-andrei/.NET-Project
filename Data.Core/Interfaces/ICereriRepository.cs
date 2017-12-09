@@ -6,8 +6,9 @@ namespace Data.Core.Interfaces
 {
     public interface ICereriRepository
     {
-        IReadOnlyList<Cerere> GetAllCereriByNumarMatricol();
+        IEnumerable<Cerere> GetAllCereriByNumarMatricol(string nrMatricol);
         Cerere GetCerereById(Guid id);
         void AddCerere(Cerere cerere);
+        void SchimbaStareCerere(Guid id, string stare);
     }
 }

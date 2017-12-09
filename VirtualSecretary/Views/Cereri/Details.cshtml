@@ -1,0 +1,67 @@
+﻿@model Data.Core.Domain.Cerere
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Cerere</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nume)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nume)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Prenume)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Prenume)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.InitialaTatalui)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.InitialaTatalui)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NumarMatricol)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NumarMatricol)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.SerieBuletin)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SerieBuletin)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NumarBuletin)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NumarBuletin)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StareCerere)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StareCerere)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
