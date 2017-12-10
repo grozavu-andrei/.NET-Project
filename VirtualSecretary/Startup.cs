@@ -34,7 +34,10 @@ namespace VirtualSecretary
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             var connectionCereri = @"Server = .\SQLEXPRESS; Database = Cereri; Trusted_Connection = true;";
             services.AddDbContext<CereriDatabaseService>(options => options.UseSqlServer(connectionCereri));
-            services.AddIdentity<ApplicationUser, IdentityRole>()
+            services.AddIdentity<ApplicationUser, IdentityRole>(config =>
+                {
+                    config.SignIn.RequireConfirmedEmail = true;
+                })
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
@@ -42,6 +45,8 @@ namespace VirtualSecretary
             services.AddTransient<IEmailSender, EmailSender>();
 
             services.AddMvc();
+
+            //services.Configure<AuthMessageSenderOptions>(Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -12698,11 +12698,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Data.Core\\Data.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Core\\Data.Core.csproj",
       "projectName": "Data.Core",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Data.Core\\Data.Core.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Core\\Data.Core.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Data.Core\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

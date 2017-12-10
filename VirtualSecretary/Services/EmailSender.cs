@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Mail;
+using System.Text.Encodings.Web;
 using System.Threading.Tasks;
 
 namespace VirtualSecretary.Services
@@ -17,7 +18,7 @@ namespace VirtualSecretary.Services
             var toAddress = new MailAddress(email, "Subscriber");
             const string fromPassword = "secretara";
             const string subj = "Subject";
-            const string body = "Body";
+            string body = message;
 
             var smtp = new SmtpClient
             {

@@ -13358,11 +13358,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\VirtualSecretary\\VirtualSecretary.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\.NET-Project\\VirtualSecretary\\VirtualSecretary.csproj",
       "projectName": "VirtualSecretary",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\VirtualSecretary\\VirtualSecretary.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\VirtualSecretary\\VirtualSecretary.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\VirtualSecretary\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\VirtualSecretary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13381,11 +13381,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Data.Persistence\\Data.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Data.Persistence\\Data.Persistence.csproj"
+            "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj"
             },
-            "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Business\\Business.csproj"
+            "C:\\Users\\Dell\\Desktop\\.NET-Project\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Business\\Business.csproj"
             }
           }
         }

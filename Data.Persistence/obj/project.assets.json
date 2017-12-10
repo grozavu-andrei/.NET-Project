@@ -12721,11 +12721,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Data.Persistence\\Data.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj",
       "projectName": "Data.Persistence",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Data.Persistence\\Data.Persistence.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Data.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12744,8 +12744,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Data.Core\\Data.Core.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\VirtualSecretary\\Data.Core\\Data.Core.csproj"
+            "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Core\\Data.Core.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Core\\Data.Core.csproj"
             }
           }
         }
