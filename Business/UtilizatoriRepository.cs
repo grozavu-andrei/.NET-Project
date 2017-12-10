@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Business
+﻿namespace Business
 {
-    class UtilizatoriRepository
+    public class UtilizatoriRepository
     {
     }
 }

@@ -1,13 +1,13 @@
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Data.Core.dll
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Data.Persistence.dll
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Data.Core.pdb
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Business.deps.json
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Business.dll
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Business.pdb
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.dll
-D:\School\Facultate\An III\Semestrul I\I.NET\Proiect\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.pdb
+C:\Users\Dell\Desktop\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Data.Core.dll
+C:\Users\Dell\Desktop\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+C:\Users\Dell\Desktop\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+C:\Users\Dell\Desktop\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Data.Core.pdb
+C:\Users\Dell\Desktop\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+C:\Users\Dell\Desktop\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\Dell\Desktop\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\Dell\Desktop\VirtualSecretary\Business\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+C:\Users\Dell\Desktop\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.dll
+C:\Users\Dell\Desktop\VirtualSecretary\Business\obj\Debug\netcoreapp2.0\Business.pdb

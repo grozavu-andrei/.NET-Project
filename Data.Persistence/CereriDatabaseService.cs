@@ -2,7 +2,7 @@
 
 namespace Data.Persistence
 {
-    public class CereriDatabaseService : DbContext
+    public class CereriDatabaseService : DbContext, ICereriDatabaseService
     {
         public CereriDatabaseService(DbContextOptions<CereriDatabaseService> options) : base(options)
         {

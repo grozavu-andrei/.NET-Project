@@ -12,7 +12,8 @@ namespace Data.Core.Domain
         public string NumarMatricol { get; set; }
         public string SerieBuletin { get; set; }
         public int NumarBuletin { get; set; }
-        public string StareCerere { get; private set; } 
+        public string StareCerere { get; private set; }
+
 
         public Cerere()
         {
