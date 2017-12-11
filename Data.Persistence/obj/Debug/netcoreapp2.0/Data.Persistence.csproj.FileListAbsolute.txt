@@ -20,3 +20,14 @@ C:\Users\Dell\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data
 C:\Users\Dell\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfo.cs
 C:\Users\Dell\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.dll
 C:\Users\Dell\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.pdb
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.deps.json
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Core.dll
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Core.pdb
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfoInputs.cache
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfo.cs
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.dll
+C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.pdb
