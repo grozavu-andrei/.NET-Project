@@ -12712,7 +12712,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Grozavu\\.nuget\\packages\\": {},
+    "C:\\Users\\Relu\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12721,17 +12721,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grozavu\\Desktop\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj",
+      "projectUniqueName": "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj",
       "projectName": "Data.Persistence",
-      "projectPath": "C:\\Users\\Grozavu\\Desktop\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj",
-      "packagesPath": "C:\\Users\\Grozavu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grozavu\\Desktop\\.NET-Project\\Data.Persistence\\obj\\",
+      "projectPath": "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj",
+      "packagesPath": "C:\\Users\\Relu\\.nuget\\packages\\",
+      "outputPath": "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\Data.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Grozavu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Relu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12744,8 +12744,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Grozavu\\Desktop\\.NET-Project\\Data.Core\\Data.Core.csproj": {
-              "projectPath": "C:\\Users\\Grozavu\\Desktop\\.NET-Project\\Data.Core\\Data.Core.csproj"
+            "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\Data.Core\\Data.Core.csproj": {
+              "projectPath": "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\Data.Core\\Data.Core.csproj"
             }
           }
         }

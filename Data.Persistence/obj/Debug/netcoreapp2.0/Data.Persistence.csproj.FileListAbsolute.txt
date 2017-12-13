@@ -31,3 +31,14 @@ C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\D
 C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfo.cs
 C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.dll
 C:\Users\Grozavu\Desktop\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.pdb
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.deps.json
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Core.dll
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Core.pdb
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.csprojResolveAssemblyReference.cache
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.csproj.CoreCompileInputs.cache
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfoInputs.cache
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfo.cs
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.dll
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.pdb
