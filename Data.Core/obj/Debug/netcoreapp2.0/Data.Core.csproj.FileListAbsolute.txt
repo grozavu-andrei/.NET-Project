@@ -25,3 +25,12 @@ C:\Users\Grozavu\Desktop\.NET-Project\Data.Core\obj\Debug\netcoreapp2.0\Data.Cor
 C:\Users\Grozavu\Desktop\.NET-Project\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.AssemblyInfo.cs
 C:\Users\Grozavu\Desktop\.NET-Project\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.dll
 C:\Users\Grozavu\Desktop\.NET-Project\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.pdb
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Core\bin\Debug\netcoreapp2.0\Data.Core.deps.json
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Core\bin\Debug\netcoreapp2.0\Data.Core.dll
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Core\bin\Debug\netcoreapp2.0\Data.Core.pdb
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.csprojResolveAssemblyReference.cache
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.csproj.CoreCompileInputs.cache
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.AssemblyInfoInputs.cache
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.AssemblyInfo.cs
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.dll
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Data.Core\obj\Debug\netcoreapp2.0\Data.Core.pdb

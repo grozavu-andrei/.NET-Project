@@ -13349,7 +13349,11 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Dell\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\Relu\\.nuget\\packages\\": {},
+>>>>>>> 71e30c007f0b368bc74410130ed1f28aa123f7f4
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13358,17 +13362,29 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Dell\\Desktop\\.NET-Project\\VirtualSecretary\\VirtualSecretary.csproj",
       "projectName": "VirtualSecretary",
       "projectPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\VirtualSecretary\\VirtualSecretary.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\VirtualSecretary\\obj\\",
+=======
+      "projectUniqueName": "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\VirtualSecretary\\VirtualSecretary.csproj",
+      "projectName": "VirtualSecretary",
+      "projectPath": "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\VirtualSecretary\\VirtualSecretary.csproj",
+      "packagesPath": "C:\\Users\\Relu\\.nuget\\packages\\",
+      "outputPath": "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\VirtualSecretary\\obj\\",
+>>>>>>> 71e30c007f0b368bc74410130ed1f28aa123f7f4
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\Relu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 71e30c007f0b368bc74410130ed1f28aa123f7f4
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13381,11 +13397,19 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj": {
               "projectPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj"
             },
             "C:\\Users\\Dell\\Desktop\\.NET-Project\\Business\\Business.csproj": {
               "projectPath": "C:\\Users\\Dell\\Desktop\\.NET-Project\\Business\\Business.csproj"
+=======
+            "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj": {
+              "projectPath": "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\Data.Persistence\\Data.Persistence.csproj"
+            },
+            "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\Business\\Business.csproj": {
+              "projectPath": "F:\\Facultate\\Anul 3\\dotNET\\VirtualSecretary\\.NET-Project\\Business\\Business.csproj"
+>>>>>>> 71e30c007f0b368bc74410130ed1f28aa123f7f4
             }
           }
         }

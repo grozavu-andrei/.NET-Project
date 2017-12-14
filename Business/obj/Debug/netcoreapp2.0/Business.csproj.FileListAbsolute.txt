@@ -37,3 +37,16 @@ C:\Users\Grozavu\Desktop\.NET-Project\Business\obj\Debug\netcoreapp2.0\Business.
 C:\Users\Grozavu\Desktop\.NET-Project\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
 C:\Users\Grozavu\Desktop\.NET-Project\Business\obj\Debug\netcoreapp2.0\Business.dll
 C:\Users\Grozavu\Desktop\.NET-Project\Business\obj\Debug\netcoreapp2.0\Business.pdb
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\bin\Debug\netcoreapp2.0\Business.dll
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\bin\Debug\netcoreapp2.0\Business.pdb
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\bin\Debug\netcoreapp2.0\Data.Core.dll
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\bin\Debug\netcoreapp2.0\Data.Core.pdb
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\obj\Debug\netcoreapp2.0\Business.dll
+F:\Facultate\Anul 3\dotNET\VirtualSecretary\.NET-Project\Business\obj\Debug\netcoreapp2.0\Business.pdb
