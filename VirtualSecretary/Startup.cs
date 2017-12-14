@@ -13,8 +13,15 @@ namespace VirtualSecretary
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configuration, IHostingEnvironment env)
         {
+            var builder = new ConfigurationBuilder();
+
+            if (env.IsDevelopment())
+            {
+                builder.AddUserSecrets<Startup>();
+            }
+            
             Configuration = configuration;
         }
 
@@ -25,7 +32,8 @@ namespace VirtualSecretary
         {
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddDbContext<CereriDatabaseService>(options => options.UseSqlServer(Configuration.GetConnectionString("CereriConnection")));
+            services.AddDbContext<CereriDatabaseService>(options => 
+                options.UseSqlServer(Configuration.GetConnectionString("CereriConnection")));
             services.AddIdentity<ApplicationUser, IdentityRole>(config =>
                 {
                     config.SignIn.RequireConfirmedEmail = true;

@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
+﻿using System.Net;
 using System.Net.Mail;
-using System.Text.Encodings.Web;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Options;
 
 namespace VirtualSecretary.Services
 {
@@ -12,11 +9,18 @@ namespace VirtualSecretary.Services
     // For more details see https://go.microsoft.com/fwlink/?LinkID=532713
     public class EmailSender : IEmailSender
     {
+        public EmailSender(IOptions<AuthMessageSenderOptions> optionsAccessor)
+        {
+            Options = optionsAccessor.Value;
+        }
+
+        public AuthMessageSenderOptions Options { get; }
+
         public Task SendEmailAsync(string email, string subject, string message)
         {
-            var fromAddress = new MailAddress("virtualsecretaryinfo@gmail.com", "VirtualSecretary");
+            var fromAddress = new MailAddress(Options.AppEmail, "VirtualSecretary");
             var toAddress = new MailAddress(email, "Subscriber");
-            const string fromPassword = "secretara";
+            string fromPassword = Options.AppPass;
             const string subj = "Subject";
             string body = message;
 
